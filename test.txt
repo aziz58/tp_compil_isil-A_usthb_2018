@@ -1,0 +1,10 @@
+ALGORITHME AA
+VAR X | Y | Z | tab[50] : ENTIER ;
+S : REEL ;
+ch[50] | ch: CHAINE;
+DEBUT       
+
+FAIRE X <- X+11; SI(X <= 17)
+FAIT
+FIN
+
